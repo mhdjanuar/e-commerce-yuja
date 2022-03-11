@@ -12,3 +12,5 @@ test('renders learn react link', () => {
 //Januar - Test merger branch
 //Branch master test
 //create test branch 2
+//Branch test branch -
+//Branch test branch -*
